@@ -41,9 +41,5 @@ This repository supports the article titled:
 - **Dr. Sushil Mahajan**, People's University, Bhopal  
 - **Dr. Trilok Shrivastav**, People's University, Bhopal  
 
----
 
-## 🧾 Citation and Use
-
-If citing this repository for academic or regulatory work:
 
