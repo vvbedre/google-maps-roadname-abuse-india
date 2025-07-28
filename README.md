@@ -31,8 +31,8 @@ Such naming raises **ethical**, **legal**, and **cartographic integrity concerns
 
 ## 📚 Research Context
 
-This repository supports the article titled:  
-**“Unauthorized Digital Road Naming for Private Healthcare Promotion: Ethical and Legal Reflections on Google Maps in India”**  
+This repository supports the article   
+Privatizing Public Space on Google Maps: Digital Evidence from Unauthorized Road Naming by Healthcare Providers in India 
 
 
 ### Authorship
