@@ -10,10 +10,10 @@ Such naming raises **ethical**, **legal**, and **cartographic integrity concerns
 
 | Instance              | City       | Medium     | Date Captured |
 |-----------------------|------------|------------|---------------|
-| Dental Road           | Pusad     | Screenshot & Video | 2025-07-28 |
-| Dr. Neha Road         |   betul   |  creenshot & Video | 2025-07-28 |
-| Smile DCRoad |          | Pusad | 2025-07-28 |
-| Rathi Dental Road           | washim      | Screenshot & Video | 2025-07-28 |
+| Dental Road            | Pusad     | Screenshot & Video | 2025-07-28 |
+| Dr. Neha Road          |  betul    |  screenshot & Video | 2025-07-28 |
+| Smile DCRoad           | pusad     | screenshot & Video| 2025-07-28 |
+| Rathi Dental Road      | washim    | Screenshot & Video | 2025-07-28 |
 
 
 ---
